@@ -31,7 +31,7 @@ Follow these steps to get the application up and running on your local machine:
 
 ---
 
-## Which Role Does What?
+## Role Permissions Overview
 
 The application features a login screen where users can select one of three roles: **Admin**, **Editor**, or **Viewer**. Each role has distinct permissions for interacting with the data on the dashboard.
 
