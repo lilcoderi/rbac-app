@@ -1,4 +1,3 @@
-// src/components/ItemList.jsx
 import React from 'react';
 import { Table, Button } from 'react-bootstrap';
 import { FaEye, FaEdit, FaTrashAlt } from 'react-icons/fa';
