@@ -56,5 +56,3 @@ This application leverages several key technologies and implements important fea
 * **Responsive Design**: The layout is designed to be fully responsive, ensuring optimal viewing and interaction across various device sizes.
 
 ---
-
-**Author**: Riana Nur Anisa
